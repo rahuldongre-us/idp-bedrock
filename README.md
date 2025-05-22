@@ -10,6 +10,24 @@ This serverless architecture leverages the scalability and cost-effectiveness of
 
 This project will run serverless lambda which access S3 bucket created by Terraform, invoke Bedrock model to generate data from image.
 
+## 🚀 Features
+
+- 🧾 Document Understanding via Claude 3 Sonnet (Amazon Bedrock)
+- ☁️ Fully Serverless architecture (S3, Lambda)
+- 📄 Input: Scanned or uploaded documents
+- 🧠 Output: Structured JSON with key-value data
+- 🔁 Real-time, event-driven data flow
+
+- 🧩 Plug-and-play for document-heavy workflows (finance, legal, healthcare)
+
+## 💼 Use Cases
+
+-  Invoice automation
+-  Contract analytics
+-  Healthcare forms processing
+-  KYC & compliance document workflows
+-  Back-office document digitization
+
 ## Run Locally
 
 Clone the project
